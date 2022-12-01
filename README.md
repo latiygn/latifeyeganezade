@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @latifeyeganezade , or you can just call me Lati ;)
+- 👀 I’m interested in Front-end development.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on small to medium-sized projects.
+- 📫 You can get in touch with me via: LatiYgn[at]Gmail[dot]com. 
