@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @latiygn.
-- 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in Web Design & Coding.
+- 🌱 I’m currently learning Web Design.
 - 💞️ I’m looking to collaborate on small to medium-sized projects.
 - 📫 You can get in touch with me via: LatiYgn[at]Gmail[dot]com. 
